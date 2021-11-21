@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+#### Contacts
+- [Telegram](https://telegram.me/demetri0) `[Recommended]`
+- [d3i0@ya.ru](mailto:d3i0+hrgh@ya.ru)
+
+#### My stack
+- OS:         GNU/Linux(*nix)
+- Languages:  Go/JavaScript
+- Frameworks: Node.js/ReactJS
+
 <!--
 **Demetri0/Demetri0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
